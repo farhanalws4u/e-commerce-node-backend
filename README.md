@@ -33,7 +33,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/AbdeIkader/eCommerce-Backend.git
-cd eCommerce-Backend
+cd e-commerce-node-backend
 npm install
 ```
 
